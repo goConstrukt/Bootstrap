@@ -38,4 +38,8 @@ $(function () {
         ok(!$('#qunit-fixture').find('.alert-message').length, 'element removed from dom')
       })
 
+<<<<<<< .merge_file_z7883z
 })
+=======
+})
+>>>>>>> .merge_file_8LPtFB
